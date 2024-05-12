@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Sonu Jatav
+- 👀 I’m interested in Android and Web development.
+- 🌱 I’m currently learning Flutter.
+- 💞️ I’m looking to collaborate on Flutter projects.
+- 📫 DM me if you are interested in collaborating.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Your brain is constantly eating itself.
+- 💞️ One-liner: A little of everything with a little from everywhere.
