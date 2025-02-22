@@ -6,17 +6,18 @@ I'm a passionate developer and creative professional specializing in:
 - **VFX & Animation Artist** 🎨
 - **Motion Graphics Designer** 🎥
 - **Generative AI Explorer** 🤖
+- **Android/iOS and Web Development** 📱💻
 
 ## 🚀 About Me  
 
-👀 I’m interested in **Android/iOS and Web Development** 📱💻
+👀 I’m interested in **Android/iOS and Web Development** 
 🌱 Currently learning **Flutter**  
 💞️ Looking to **collaborate on Flutter projects**  
 📫 DM me if you’re interested in collaborating  
 😄 Pronouns: **He/Him**  
 ⚡ Fun fact: **Your brain is constantly eating itself**  
 💞️ One-liner: **A little of everything with a little from everywhere**  
-💞️ One-liner: **A little of everything with a little from everywhere**  
+💞️ One-liner: **A good life is built with good relationships**  
 
 ## 🔧 Technologies & Tools
 
@@ -67,6 +68,3 @@ I'm a passionate developer and creative professional specializing in:
   <img src="https://www.sonujatav.com/img/works/motion.gif" width="250" alt="Motion Graphics Work">  
   <img src="https://www.sonujatav.com/img/works/sample_3dlogo.gif" width="250" alt="Cinematic Logo Reveal">  
 </p>
-
-
-*Note: A good life is built with good relationships.*
