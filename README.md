@@ -1,102 +1,73 @@
-# Hi there, I'm Sonu Jatav! 👋
+# Hi there, I’m **Sonu Jatav**  👋
 
 ![Profile Banner](https://raw.githubusercontent.com/heythisissonu/heythisissonu/refs/heads/main/github-header-image.png) 
 
 I'm a passionate developer and creative professional specializing in:
-
-- **Android/iOS and Web Development** 📱💻
-- **Flutter Enthusiast** 🚀
 - **VFX & Animation Artist** 🎨
 - **Motion Graphics Designer** 🎥
 - **Generative AI Explorer** 🤖
 
 ## 🚀 About Me  
 
-👋 Hi, I’m **Sonu Jatav**  
-👀 I’m interested in **Android and Web development**  
+👀 I’m interested in **Android/iOS and Web Development** 📱💻
 🌱 Currently learning **Flutter**  
 💞️ Looking to **collaborate on Flutter projects**  
 📫 DM me if you’re interested in collaborating  
 😄 Pronouns: **He/Him**  
 ⚡ Fun fact: **Your brain is constantly eating itself**  
 💞️ One-liner: **A little of everything with a little from everywhere**  
+💞️ One-liner: **A little of everything with a little from everywhere**  
 
 ## 🔧 Technologies & Tools
 
+#### 💻 Development:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### 🎨 Design & Editing:
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+#### 🤖 AI & Productivity:
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+
+### 🌍 Let's Connect:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heythisissonu/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jnvsonu52/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sonujatav.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/sonujatav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnvsonu52)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/heythisissonu/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/realsonujatav)
+[![Pexels](https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white)](https://www.pexels.com/@sonujatav/)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/heythisissonu?share_id=ZZ8Vu_DrMCY&locale=en-US-u-mu-celsius)
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9195200697563876520)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/jnvsonu52#)
 
 
+## 🎥 Preview Gallery  
 
-## 🌱 Currently Learning
+<p align="center">
+  <img src="https://www.sonujatav.com/img/works/sample_3dlogo.gif" width="250" alt="Cinematic Logo Reveal">  
+  <img src="https://www.sonujatav.com/img/works/sample_sonuyt.gif" width="250" alt="YouTube 3D Intro">  
+  <img src="https://www.sonujatav.com/img/works/sample_tenforty.gif" width="250" alt="3D Custom Logo">  
+  <img src="https://www.sonujatav.com/img/works/logo_work.gif" width="250" alt="Logo Animation Showcase">  
+  <img src="https://www.sonujatav.com/img/works/explainer.gif" width="250" alt="Explainer Video">  
+  <img src="https://www.sonujatav.com/img/works/motion.gif" width="250" alt="Motion Graphics Work">  
+</p>
 
-I'm diving deeper into **Flutter** to build cross-platform applications with beautiful UIs.
-
-## 💼 Featured Projects  
-
-🚀 **Explore My Work Under Modern Craft**  
-
-- **[![Modern Craft](https://img.shields.io/badge/Google%20Play%20Store-Modern%20Craft-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=9195200697563876520)**  
-  📱 Discover **high-quality** and **aesthetic** apps on the **Google Play Store** under **Modern Craft**.  
-
----
-
-🎥 **Signature Animations**  
-
-### **Cinematic Logo Reveal Animation**  
-[![Watch Animation](https://img.shields.io/badge/Cinematic%20Logo%20Reveal-Watch%20Now-ff4081?style=for-the-badge&logo=adobe-after-effects&logoColor=white)](https://www.sonujatav.com/portfolio/cinematic-logo-reveal-animation)  
-🎬 A sleek and cinematic **logo reveal**, pushing creative boundaries with **Adobe After Effects**.  
-![Cinematic Logo Reveal](https://www.sonujatav.com/img/works/sample_3dlogo.gif)  
-
----
-
-### **YouTube 3D Intro Animation**  
-[![View Project](https://img.shields.io/badge/YouTube%203D%20Intro-View%20Project-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.sonujatav.com/portfolio/youtube-3d-intro-animation)  
-📺 A **customizable YouTube UI design** featuring seamless **3D camera movements** and highly **realistic animation**.  
-![YouTube 3D Intro](https://www.sonujatav.com/img/works/sample_sonuyt.gif)  
-
----
-
-### **3D Custom Logo Animation**  
-[![See Animation](https://img.shields.io/badge/3D%20Logo%20Animation-See%20Animation-007acc?style=for-the-badge&logo=blender&logoColor=white)](https://www.sonujatav.com/portfolio/3d-custom-logo-animation)  
-🔥 A **dynamic and engaging logo reveal**, crafted using **Element 3D in Adobe After Effects**.  
-![3D Custom Logo](https://www.sonujatav.com/img/works/sample_tenforty.gif)  
-
----
-
-### **Logo Animation Showcase**  
-🎨 A **showcase of different logo animation styles**, bringing brands to life with smooth and professional motion graphics.  
-![Logo Animation](https://www.sonujatav.com/img/works/logo_work.gif)  
-
----
-
-### **Explainer Video Animation**  
-📢 **Engaging explainer videos** using motion graphics to simplify complex ideas into easy-to-understand visuals.  
-![Explainer Video](https://www.sonujatav.com/img/works/explainer.gif)  
-
----
-
-### **Motion Graphics Work**  
-🔥 A compilation of **various motion design projects**, highlighting creativity, fluid animations, and storytelling through visuals.  
-![Motion Graphics](https://www.sonujatav.com/img/works/motion.gif)  
-
-
-## 📫 Let's Connect
-
-- **Website**: [sonujatav.com](https://www.sonujatav.com/)
-- **Email**: heythisissonu@gmail.com
-- **Instagram**: [Sonu Jatav](https://www.instagram.com/heythisissonu/)
 
 *Note: A good life is built with good relationships.*
 
