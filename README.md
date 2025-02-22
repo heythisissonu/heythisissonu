@@ -60,8 +60,9 @@ I'm a passionate developer and creative professional specializing in:
 ## 🎥 Preview Gallery  
 
 <p align="center">
-  <img src="https://www.sonujatav.com/img/works/sample_3dlogo.gif" width="250" alt="Cinematic Logo Reveal">  
+  
   <img src="https://www.sonujatav.com/img/works/sample_sonuyt.gif" width="250" alt="YouTube 3D Intro">  
+  <img src="https://www.sonujatav.com/img/works/sample_3dlogo.gif" width="250" alt="Cinematic Logo Reveal">  
   <img src="https://www.sonujatav.com/img/works/sample_tenforty.gif" width="250" alt="3D Custom Logo">  
   <img src="https://www.sonujatav.com/img/works/logo_work.gif" width="250" alt="Logo Animation Showcase">  
   <img src="https://www.sonujatav.com/img/works/explainer.gif" width="250" alt="Explainer Video">  
