@@ -61,6 +61,9 @@
 ## 🎥 Preview Gallery  
 
 <p align="center">
+ 
+  <img src="https://github.com/heythisissonu/heythisissonu/blob/main/Instagram-Post-02.jpg?raw=true" width="250" alt="Google Play Store">   
+  <img src="https://github.com/heythisissonu/heythisissonu/blob/main/Instagram-Post-01.jpg?raw=true" width="250" alt="Android app"> 
   <img src="https://www.sonujatav.com/img/works/sample_sonuyt.gif" width="250" alt="YouTube 3D Intro">  
   <img src="https://www.sonujatav.com/img/works/sample_tenforty.gif" width="250" alt="3D Custom Logo">  
   <img src="https://www.sonujatav.com/img/works/logo_work.gif" width="250" alt="Logo Animation Showcase">  
