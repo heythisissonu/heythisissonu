@@ -1,12 +1,6 @@
-# Hi there, I’m **Sonu Jatav**  👋
+# Hi there, I’m **Sonu Jatav**, creative professional and passionate developer👋
 
-![Profile Banner](https://raw.githubusercontent.com/heythisissonu/heythisissonu/refs/heads/main/github-header-image.png) 
-
-I'm a passionate developer and creative professional specializing in:
-- **VFX & Animation Artist** 🎨
-- **Motion Graphics Designer** 🎥
-- **Generative AI Explorer** 🤖
-- **Android/iOS and Web Development** 📱💻
+![Profile Banner](https://raw.githubusercontent.com/heythisissonu/heythisissonu/refs/heads/main/banner.png)
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heythisissonu/heythisissonu/output/github-snake-dark.svg" />
