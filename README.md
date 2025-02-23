@@ -8,6 +8,12 @@ I'm a passionate developer and creative professional specializing in:
 - **Generative AI Explorer** 🤖
 - **Android/iOS and Web Development** 📱💻
 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heythisissonu/heythisissonu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heythisissonu/heythisissonu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/heythisissonu/heythisissonu/output/github-snake.svg" />
+</picture>
+
 ## 🚀 About Me  
 
 👀 I’m interested in **Android/iOS and Web Development** 
