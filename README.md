@@ -1,6 +1,6 @@
 # Hi there, I’m **Sonu Jatav**, creative professional and passionate developer👋
 
-![Profile Banner](https://raw.githubusercontent.com/heythisissonu/heythisissonu/refs/heads/main/banner.png)
+![Profile Banner](https://raw.githubusercontent.com/heythisissonu/heythisissonu/refs/heads/main/new_banner.png)
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heythisissonu/heythisissonu/output/github-snake-dark.svg" />
